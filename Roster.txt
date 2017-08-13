@@ -1,0 +1,51 @@
+
+			          Student Grades and Average  
+
+
+   name           test1      test2     finalTest    Semester average     FinalGrade
+
+
+   Meredith          95.00        90.00         85.00       88.50              B
+
+
+
+   Bailey          70.00        90.00         70.00       76.00              C
+
+
+
+   Izzie          45.00        50.00         65.00       56.50              F
+
+
+
+   George          75.00        80.00         72.00       75.00              C
+
+
+
+   Cristina          72.00        78.00         78.00       76.80              C
+
+
+
+   Gibbs          92.00        98.00         95.00       95.30              A
+
+
+
+   Denozzo          70.00        70.00         70.00       70.00              C
+
+
+
+   ziva          50.00        88.00         95.00       83.90              B
+
+
+
+   mcgee          88.00        88.00         88.00       88.00              B
+
+
+
+   Abby          50.00        65.00         65.00       62.00              D
+
+
+
+The Average of class is :   90.00
+THe  maximum Grade is   :     95.30
+The  minimum  Grade is  :     56.50
+

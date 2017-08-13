@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1501525372 source:c:\users\rafi\desktop\assignment3langsam\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1501525372 source:f:\assignment3langsam\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

@@ -1,0 +1,11 @@
+Meredith  95  90  85
+Bailey    70  90  70
+Izzie     45  50  65
+George    75  80  72
+Cristina  72  78  78
+Gibbs     92  98  95
+Denozzo   70  70  70
+ziva      50  88  95
+mcgee     88  88  88
+Abby      50  65  65
+<eof>
